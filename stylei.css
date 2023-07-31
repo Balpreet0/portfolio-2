@@ -1,0 +1,257 @@
+
+body{
+
+
+    
+    background-color: #020101;
+    margin: 0px 0px 0px 130px ;
+    padding: 0px 0px 0px 30px ;
+    transition: 1s ease;
+    
+    
+    
+    }
+    #pp{
+    
+    
+    
+    
+          
+        
+             
+        font-family: Montserrat, sans-serif;
+        font-size: 90px;
+        font-weight: 700;
+        color: #fad505;
+        transition: 2s cubic-bezier(0, 1.31, 0.45, 0.94);
+        line-height: 1;
+    
+    }
+    
+    
+    
+    p {
+        font-family: Montserrat, sans-serif;
+        font-size: 20px;
+        font-weight: 300;
+        color: aliceblue;
+    }
+    
+    
+    
+    
+    #lets-connect{
+    
+    
+    color: aliceblue;
+    display: block;
+    /* max-width: 60%; */
+    
+    
+    
+    width: var(--container-widget-width, 60% );
+        max-width: 60%;
+        --container-widget-width: 60%;
+        --container-widget-flex-grow: 0;
+    
+    
+    
+    
+    
+    
+    
+    }
+    
+    
+    .para{
+    
+    
+    
+    margin: -50px 0px 0px 0px ;
+    padding: 0px 0px 0px 0px ;
+    transition: 2s ease;
+    
+    
+    }
+    
+    #lets-connect{
+    
+    margin: 22px 0px 0px 0px ;
+    padding: 0px 0px 0px 0px ;
+    
+    
+    font-family: Montserrat, sans-serif;
+    
+    
+    }
+    
+    ul{
+    
+    
+    
+    color: aliceblue;
+    
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    margin: 0px 90px 0px 0px ;
+    padding: 0px 90px 0px 0px ;
+    
+    
+    
+    }
+    
+    
+    /* 
+    .center{
+    
+    
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-self: center;
+    justify-items: center;
+    
+    
+    
+    
+    
+    
+    
+    } */
+    
+    .fa {
+      padding: 20px;
+      font-size: 30px;
+      width: 50px;
+      text-align: center;
+      text-decoration: none;
+      margin: 5px 2px;
+    }
+    
+    .fa:hover {
+        opacity: 0.7;
+    }
+    
+    .fa-facebook {
+      background: black;
+      color: white;
+    
+      
+    
+    }
+    
+    .fa-twitter {
+      background:black;
+      color: white;
+    }
+    
+    .fa-linkedin {
+      background: black;
+      color: white;
+    }
+    
+    
+    .fa-instagram {
+      background: black;
+      color: white;
+    }
+    .icon{
+    
+    display: flex;
+    justify-content: center;
+    margin: 40px 0px 0px 0px ;
+    padding: 0px 0px 0px 0px;
+    
+    
+    
+    }
+    
+    
+    
+    li{
+    
+    
+    
+        font-weight: 800;
+        font-size: x-large;
+         font-family: Montserrat, sans-serif;
+         /* justify-content: space-between; */
+    
+    
+    
+    
+    
+    
+    
+    }
+
+    
+    .ul-1{
+        margin: 6px 0px 0px 0px;
+        padding: 4px 18px 50px 0px;
+    
+    
+    }
+    
+    
+    
+    
+    .ul-2{
+    
+     margin: 0px 0px 0px 0px;
+        padding: 0px 0px 0px 0px;
+    
+    
+    
+    }
+    
+    a:hover {
+        opacity: 0.7;
+    }
+    
+    
+    
+    a{
+    
+    
+    
+         color: inherit;
+         box-shadow: none;
+        text-decoration: none;
+    
+    
+    }
+    
+    .divider-seprator{
+    
+    
+    
+    display: flex;
+    width: 50px;
+    /* background-color: #fff; */
+    border-style: solid;
+    border-width:3px;
+    
+    color: #FAD505;
+    
+    margin: 15px 0px 0px 0px ;
+    padding: 0px 0px 0px 0px ;
+    
+    
+    }
+
+    @media only screen and (max-width:1020px){
+
+      #ul{
+      
+      
+      width: 50%;
+      
+      }
+      
+      }
+    
+    
+    
